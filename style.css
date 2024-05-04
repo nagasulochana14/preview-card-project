@@ -12,19 +12,19 @@
   margin-bottom: 80px;
 }
 .cardOne {
-  width: 280px;
+  width: 290px;
   height: 400px;
   background-color: hsl(31, 77%, 52%);
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
 }
 .cardTwo {
-  width: 280px;
+  width: 290px;
   height: 400px;
   background-color: hsl(184, 100%, 22%);
 }
 .cardThree {
-  width: 280px;
+  width: 290px;
   height: 400px;
   background-color: hsl(179, 100%, 13%);
   border-bottom-left-radius: 10px;
